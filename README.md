@@ -2,6 +2,9 @@
 
 Implementation of EEG artifact rejection based on the **Improved Riemannian Potato Field (iRPF)** method.
 
+<img width="727" height="799" alt="Screenshot 2026-03-17 at 10 25 03" src="https://github.com/user-attachments/assets/4e8f8b8f-a8f7-4069-97ee-285003c1140b" />
+
+
 ## Usage as a Preprocessing Step
 
 This method can be used as a preprocessing step in EEG pipelines.
