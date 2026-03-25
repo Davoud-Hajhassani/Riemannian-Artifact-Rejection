@@ -10,7 +10,7 @@ Implementation of EEG artifact rejection based on the **Improved Riemannian Pota
 This method can be used as a preprocessing step in EEG pipelines.
 An example implementation is available in MOABB:
 
-🔗 [Riemannian Artifact Rejection as a Pre-processing Step](https://moabb.neurotechx.com/docs/auto_examples/advanced_examples/plot_riemannian_artifact_rejection.html)
+🔗 [Riemannian Artifact Rejection as a Pre-processing Step](https://moabb.neurotechx.com/docs/auto_examples/advanced_examples/riemannian_artifact_rejection.html)
 
 ## References
 
