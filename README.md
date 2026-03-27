@@ -12,6 +12,13 @@ An example implementation is available in MOABB:
 
 🔗 [Riemannian Artifact Rejection as a Pre-processing Step](https://moabb.neurotechx.com/docs/auto_examples/advanced_examples/riemannian_artifact_rejection.html)
 
+## Online Artifact Detection with Riemannian methods
+
+For online artifact detection and assigning a signal quality index (SQI) to EEG data.
+
+🔗 [Online Artifact Detection with Riemannian Potato Field](https://pyriemann.readthedocs.io/en/latest/auto_examples/artifacts/plot_detect_riemannian_potato_field_EEG.html)
+
+
 ## References
 
 1. Hajhassani, D., Barthélemy, Q., Mattout, J., & Congedo, M. (2026).
